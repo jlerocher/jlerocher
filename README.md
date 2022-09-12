@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cloud Computing on Udacity
 - 💞️ I’m looking to collaborate on Python, or Cloud Computing Project
 - 📫 How to reach me ?
-- You can reach at jlerocher@gmail.com
+- You can reach me at jlerocher@gmail.com
 
 <!---
 jlerocher/jlerocher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
