@@ -33,7 +33,7 @@ Check out my latest work and projects on my portfolio website.
 Feel free to reach out for collaborations, job opportunities, or just to say hi! You can contact me via:
 
 - Email: [jlerocher@gmail.com](mailto://jlerocher@gmail.com)
-- Blog:[Personnal blog](https://blog-de-rocher.vercel.app/)
+- Blog: [Personnal blog](https://blog-de-rocher.vercel.app/)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jlerocher/)
 - Twitter or X: [@jlerocher2023](x.com/jlerocher2023)
 - Dev.to: [Profile](https://dev.to/jlerocher)
