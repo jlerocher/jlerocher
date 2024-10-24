@@ -11,7 +11,7 @@
 
 
 
-I am a Creative FullStack Web & Cloud Developer based in Brazzaville, Congo. I specialize in building robust and scalable web applications with a passion for cloud computing. I'm currently open to remote opportunities where I can bring innovative ideas to life.
+I am a Creative FullStack Web & Cloud Developer. I specialize in building robust and scalable web applications with a passion for cloud computing. I'm currently open to remote opportunities where I can bring innovative ideas to life.
 
 ## 👀 What I'm Interested In
 Languages & Frameworks: Python, JavaScript (React, Node.js, Typescript, Express), Django, FastAPI
