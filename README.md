@@ -22,7 +22,7 @@ Back-End Development: Building RESTful APIs, microservices, and serverless appli
 ## 💡 What I'm Looking For
 I'm eager to collaborate on projects involving:
 
-## Web Development: Full-stack projects using Python or JavaScript frameworks
+## Web Development: Full-stack projects using Python or Typescript/JavaScript frameworks
 Cloud Computing: Projects that leverage AWS or other cloud services to deliver scalable solutions
 Open Source Contributions: Initiatives where I can contribute my skills to the community and learn from others
 
@@ -33,11 +33,10 @@ Check out my latest work and projects on my portfolio website.
 Feel free to reach out for collaborations, job opportunities, or just to say hi! You can contact me via:
 
 - Email: [jlerocher@gmail.com](mailto://jlerocher@gmail.com)
-- Blog: [Personnal blog](https://blog-de-rocher.vercel.app/)
+- Blog: [Personnal blog](https://blog.jlerocher.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jlerocher/)
 - Twitter or X: [@jlerocher2023](x.com/jlerocher2023)
 - Dev.to: [Profile](https://dev.to/jlerocher)
-- My french blog: [read something](https://blog-de-rocher.vercel.app/)
 
 ## ✨ Let's Build Something Amazing Together!
 I’m always excited to work on challenging projects that push the boundaries of what’s possible with web and cloud technologies. If you have a project in mind or an idea you’d like to explore, let’s connect!
